@@ -1,0 +1,24 @@
+version: 2
+
+models:
+  - name: sl_yelp_food
+    description: "This model transforms Yelp data from bronze to silver layer"
+    columns:
+      - name: ZIP_CODE
+        description: "Postal code for the restaurant's location"
+        tests:
+          - dbt_expectations.expect_column_value_lengths_to_be_between:
+              min_value: 4
+              max_value: 6
+      - name: LATITUDE
+        description: "Latitude of the restaurant's location"
+        tests:
+          - dbt_expectations.expect_column_values_to_be_numeric
+      - name: LONGITUDE
+        description: "Longitude of the restaurant's location"
+        tests:
+          - dbt_expectations.expect_column_values_to_be_numeric
+      - name: RESTAURANT_NAME
+        description: "Name of the restaurant"
+        tests:
+          - dbt_expectations.expect_column_values_to_not_be_null

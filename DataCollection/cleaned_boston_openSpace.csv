@@ -1,0 +1,550 @@
+SITE_NAME,ACRES,TypeLong,ZipCode,ADDRESS
+Wilson Park,0.09718357,"Malls, Squares & Plazas",02135,10 Wilson Park
+James H. Roberts Playground,1.00413568,"Parks, Playgrounds & Athletic Fields",02134,120 Hooker Str.
+Smith Playground,15.02524742,"Parks, Playgrounds & Athletic Fields",02134,235 Western Avenue
+Fern Square,0.04450911,"Malls, Squares & Plazas",02134,1 Fern Street
+Ringer Playground,10.26309317,"Parks, Playgrounds & Athletic Fields","02134, 02135",85 Allston Street
+McKinney Playground,5.89186071,"Parks, Playgrounds & Athletic Fields",02135,74 Faneuil Street
+Hobart Park,0.80891409,"Parks, Playgrounds & Athletic Fields",02135,85 Hobart Street
+Market Street Burying Ground,0.39538045,Cemeteries & Burying Grounds,02135,380 Market Street
+Jackson Square,0.12032328,"Malls, Squares & Plazas",02135,58 Chestnut Hill Avenue
+Reilly Playground,6.96749208,"Parks, Playgrounds & Athletic Fields",02135, 
+Boyden Park,0.48183069,"Malls, Squares & Plazas",02467, 
+Evergreen Cemetery,20.77387518,Cemeteries & Burying Grounds,02135,2060 Commonwealth Avenue
+Hardiman Playground,1.47315094,"Parks, Playgrounds & Athletic Fields",02135,380 Faneuil Street
+Rogers Park,8.17184526,"Parks, Playgrounds & Athletic Fields",02135,30 Rogers Park Avenue
+Chandler Pond,19.03417426,"Parks, Playgrounds & Athletic Fields",02135,95 Lake Shore Road
+Mullen Square,0.22676977,"Malls, Squares & Plazas",02125,24 Edison Green
+Dorchester North Burying Ground,3.30419728,Cemeteries & Burying Grounds,02125,611 Columbia Road
+Downer Avenue Playground,0.77917123,"Parks, Playgrounds & Athletic Fields",02125,40 Downer Avenue
+Quincy/Stanley Play Area,0.37525126,"Parks, Playgrounds & Athletic Fields",02125,21 Stanley Street
+Deer Street Park,0.24657505,"Parks, Playgrounds & Athletic Fields",02125,39 Deer Street
+Savin Hill Beach,3.43397589,"Parkways, Reservations & Beaches",02125, 
+Coppens Square,0.35705028,"Malls, Squares & Plazas",02122,325 Bowdoin Street
+Old Harbor Park,8.04452136,"Parkways, Reservations & Beaches",02125, 
+McConnell Park,6.76240432,"Parks, Playgrounds & Athletic Fields",02125,30 Denny Street
+Boston Common,45.74095034,"Parks, Playgrounds & Athletic Fields",02108,139 Tremont St (Visitor Info Center) 1B Charles St (Earl of Sandwich)  38 Beacon St (Frog Pond) 167 Tremont St (Parkman Bandstand) 115 Boylston St (Deer Park)
+Central Burying Ground,1.48917439,Cemeteries & Burying Grounds,02108,125 Boylston Street
+Public Garden,23.50816815,"Parks, Playgrounds & Athletic Fields","02108, 02116",4 Charles Street
+Granary Burying Ground,1.85683737,Cemeteries & Burying Grounds,02108,95 Tremont Street
+Phillips Street Play Area,0.11527547,"Parks, Playgrounds & Athletic Fields",02114,21 Phillips Street
+Myrtle Street Playground,0.16074066,"Parks, Playgrounds & Athletic Fields",02114,50 Myrtle Street
+Copley Square Park,1.85443363,"Malls, Squares & Plazas",02116,560 Boylston Street
+Clarendon Street Playlot,0.32391688,"Parks, Playgrounds & Athletic Fields",02116,260 Clarendon Street
+DeFilippo Playground,1.11810624,"Parks, Playgrounds & Athletic Fields",02113,135 Prince Street
+Copp's Hill Burying Ground,1.9815775,Cemeteries & Burying Grounds,02113,Opposite 34 Hull Str.
+Copp's Hill Terrace,0.61203713,"Malls, Squares & Plazas",02113,536 Commericial Str.
+Foster Street Play Area,0.10758423,"Parks, Playgrounds & Athletic Fields",02113,15 Foster Street
+Charter Street Park,0.23871022,"Parks, Playgrounds & Athletic Fields",02113,21P Charter Street
+Paul Revere Mall,0.85716454,"Malls, Squares & Plazas",02113,370 Hanover Street
+Polcari Park,0.27894045,"Parks, Playgrounds & Athletic Fields",02113,45 Prince Street
+Cutillo Park,0.28935655,"Parks, Playgrounds & Athletic Fields",02113,10 Stillman Street
+City Hall Plaza,6.01397006,"Malls, Squares & Plazas",02203, 
+Norman Leventhal Park,1.54089431,"Parks, Playgrounds & Athletic Fields",02110,130 Congress Str.
+Angell Memorial Square,0.17664515,"Malls, Squares & Plazas",02109,152-158 Congress Street
+Union Street Park,0.50833641,"Malls, Squares & Plazas",02108,Between Union Street & Congress Street opposite City Hall
+Langone Park,2.1838685,"Parks, Playgrounds & Athletic Fields",02109,529-543 Commercial Street
+Prince Street Park,1.28400688,"Parkways, Reservations & Beaches",02109, 
+Rachel Revere Square,0.08036273,"Malls, Squares & Plazas",02113,200 North Street
+Tai Tung Park,0.03349567,"Parks, Playgrounds & Athletic Fields",02111,110 Tyler Street
+Leo F. McCarthy Playground,1.33874237,"Parks, Playgrounds & Athletic Fields",02129,10 Eden Street
+City Square,1.20876298,"Malls, Squares & Plazas",02129, 
+John Harvard Mall,0.8129293,"Malls, Squares & Plazas",02129,
+Paul Revere Park,6.40064499,"Parkways, Reservations & Beaches",02129, 
+Charlestown H.S. Athletic Fields,10.41698001,"Parks, Playgrounds & Athletic Fields",02129,39 Terminal Street
+Ryan Playground,8.77653179,"Parks, Playgrounds & Athletic Fields",02129,75 Alford Street
+Barry Playground,3.5513371,"Parks, Playgrounds & Athletic Fields",02129,41 Medford Street
+Doherty Playground,3.75245886,"Parks, Playgrounds & Athletic Fields",02129,349 Bunker Hill Street
+St Francis De Sales Cemetery,1.79988905,Cemeteries & Burying Grounds,02129, 
+Bunker Hill Monument,3.77625645,"Malls, Squares & Plazas",02129, 
+Phipps Street Burying Ground,1.72179063,Cemeteries & Burying Grounds,02129,25 Phipps Street
+Winthrop Square,0.900859,"Malls, Squares & Plazas",02129,55 Winthrop Street
+Hayes Square,0.1747193,"Malls, Squares & Plazas",02129,45 Bunker Hill Street
+Charlestown Sprouts Garden,0.4765882,Community Gardens,02129, 
+East Boston Memorial Park I,17.6796181,"Parks, Playgrounds & Athletic Fields",02128, 
+Noyes Playground,8.31709266,"Parks, Playgrounds & Athletic Fields",02128,86 Boardman Street
+Temple Ohabei Shalom Cemetery,2.33966592,Cemeteries & Burying Grounds,02128, 
+Cuneo Park,0.23069055,"Parks, Playgrounds & Athletic Fields",02128,765 Saratoga Street
+Bennington Street Cemetery,3.59002599,Cemeteries & Burying Grounds,02128,495 Bennington Street
+American Legion Playground,3.3805977,"Parks, Playgrounds & Athletic Fields",02128,25 Glendon Street
+Prescott Square,0.27470857,"Malls, Squares & Plazas",02128,2 Prescott Street
+Putnam Square,0.26683758,"Malls, Squares & Plazas",02128,70 Putnam Street
+Paris Street Playground,1.28144947,"Parks, Playgrounds & Athletic Fields",02128,115 Paris Street
+Brophy Park,0.78252588,"Parks, Playgrounds & Athletic Fields",02128,192 Webster Street
+Sumner & Lamson Street Playground,0.47865985,"Parks, Playgrounds & Athletic Fields",02128,430 Sumner Street
+Condor Street Beach,2.74385229,Urban Wilds,02128,300 Condor St.
+East Boston Greenway,3.50179329,"Parkways, Reservations & Beaches",02128,44 Marginal Street
+Symphony Community Park,0.47762031,"Parks, Playgrounds & Athletic Fields",02115,39 Edgerly Road
+Edgerly Road Playground,0.12319958,"Parks, Playgrounds & Athletic Fields",02115,6 Edgerly Road
+Commonwealth Avenue Mall II,0.97100607,"Malls, Squares & Plazas",02215,"Commonwealth Ave btwn Charlesgate West & Kenmore St, nr Kenmore T Station"
+Stony Brook Sewer Easement,0.31277237,"Malls, Squares & Plazas",02115, 
+Gallops Island,25.09617342,"Parkways, Reservations & Beaches", , 
+Lovells Island,60.96033399,"Parkways, Reservations & Beaches", , 
+Georges Island,40.45544066,"Parkways, Reservations & Beaches", , 
+Thompson Island,169.88699023,"Parkways, Reservations & Beaches", ,"Boston Harbor, west of Harbor Point, Dorchester"
+Connell Fields/Hickey Courts,16.78363393,"Parks, Playgrounds & Athletic Fields",02136, 
+Weider Park,6.88373071,"Parks, Playgrounds & Athletic Fields",02136, 
+Monterey Hilltop,6.67237544,Urban Wilds,"02136, 02131",700 Beechmont Street
+Sherrin Woods,23.9488054,Urban Wilds,02136,1 Marston Street
+Doyle Playground,0.94494899,"Parks, Playgrounds & Athletic Fields",02136, 
+West Street,2.5055118,Urban Wilds,02136,2 West Street
+Dell Rock,1.30443817,Urban Wilds,02136,40 Dell Avenue
+Amatucci Playground,0.46590072,"Parks, Playgrounds & Athletic Fields",02136,1460 Hyde Park Avenue
+Moynihan Playground,7.18636757,"Parks, Playgrounds & Athletic Fields",02136, 
+Iacono/Readville Playground,4.91446373,"Parks, Playgrounds & Athletic Fields",02136,150 Readville Street
+Camp Meigs,2.86609445,"Parks, Playgrounds & Athletic Fields",02136, 
+Jeremiah Hurley Memorial Park,0.07297301,"Malls, Squares & Plazas",02136,0 (Zero) Wolcott Square
+Stony Brook Recreation Complex,27.39580723,"Parks, Playgrounds & Athletic Fields",02136,Corner Turtle Pond Parkway & River Street
+Williams Square,0.03806014,"Malls, Squares & Plazas",02136,140 Williams Avenue
+Dana Avenue Urban Wild,0.77727562,Urban Wilds,02136, 
+Mother Brook Reservation,30.39329582,"Parkways, Reservations & Beaches",02136, 
+Mission Hill Playground,2.76091488,"Parks, Playgrounds & Athletic Fields",02120,60 Smith Street
+Gibbons Playground,0.10489898,"Parks, Playgrounds & Athletic Fields",02120,23 Delle Avenue
+Mozart Street Playground,0.80633719,"Parks, Playgrounds & Athletic Fields",02130,10 Mozart Street
+Beecher Street Play Area,0.17425723,"Parks, Playgrounds & Athletic Fields",02130,20 Beecher Street
+Lawrence Farm,41.1616755,Open Land,02130, 
+Soldier's Monument,0.13269948,"Malls, Squares & Plazas",02130,1 South Street
+English H.S. Athletic Fields,7.63387255,"Parks, Playgrounds & Athletic Fields",02130,20 Williams Street
+Johnson Park II,0.17064967,"Parks, Playgrounds & Athletic Fields",02130, 
+Johnson Park I,2.60107852,"Parks, Playgrounds & Athletic Fields",02130, 
+Mahoney Square,0.0602203,"Malls, Squares & Plazas",02130,399P Centre Street
+Back of the Hill Urban Wild,3.71652063,Urban Wilds,"02130, 02120",60 Ellingwood Street
+Thetford/Evans Playground,0.68323955,"Parks, Playgrounds & Athletic Fields",02124,15 Evans Street
+Woodhaven,1.22255816,Urban Wilds,02126,60 Woodhaven Street
+Gladeside,10.29017524,Urban Wilds,02126,12 Gladeside Terrace
+Willowwood Rock,0.55885711,Urban Wilds,02124,30 Willlowwood Street
+Msgr. Francis A. Ryan Park,6.14183597,"Parks, Playgrounds & Athletic Fields",02126, 
+Walker Playground,5.95396661,"Parks, Playgrounds & Athletic Fields",02126,550 Norfolk Street
+Kennedy Playground,0.26005249,"Parks, Playgrounds & Athletic Fields",02126, 
+Forest Hills Cemetery,243.78709001,Cemeteries & Burying Grounds,02130, 
+Walter Street Cemetery,0.86134391,Cemeteries & Burying Grounds,02131,155 Walter Street
+Pagel Playground,2.71725419,"Parks, Playgrounds & Athletic Fields",02131,365 Hyde Park Avenue
+Parkman Playground,2.06827268,"Parks, Playgrounds & Athletic Fields",02130,58 Wachusett Street
+Fallon Field,7.51214641,"Parks, Playgrounds & Athletic Fields",02131,910 South Street
+Poplar Street Play Area,0.43611834,"Parks, Playgrounds & Athletic Fields",02131,245 Poplar Street
+Delano Park,0.20638751,"Malls, Squares & Plazas",02131,2P Delano Park
+Toll Gate Cemetery,0.90486582,Cemeteries & Burying Grounds,02130, 
+Dudley Town Common,0.61711798,"Malls, Squares & Plazas",02119,"366-378 Dudley Street
+421-425 Dudley Street"
+King Street Play Area,0.1252945,"Parks, Playgrounds & Athletic Fields",02119,239 Roxbury Street
+Jeep Jones Park,1.81821592,"Parks, Playgrounds & Athletic Fields",02119,221 Roxbury Street
+Linwood Park,0.07384486,"Malls, Squares & Plazas",02119,55P Linwood Park Street
+Kittredge Park,0.11614305,"Malls, Squares & Plazas",02119,2P Kittredge Park
+Rockledge Street Urban Wild,0.51363738,Urban Wilds,02119,5 Rockledge Street
+St James Street Park,0.39295057,"Parks, Playgrounds & Athletic Fields",02119,39 St. James Street
+Malcolm X Park,15.24316864,"Parks, Playgrounds & Athletic Fields",02119,150 M L King Jr. Boulevard
+Horatio Harris Park,2.52211074,"Parks, Playgrounds & Athletic Fields",02121,85 Harold Street
+Trotter School Playground,1.24409101,"Parks, Playgrounds & Athletic Fields",02121,59 Waumbeck Street
+Crawford Street Playground,2.56768548,"Parks, Playgrounds & Athletic Fields",02121,320 Walnut Avenue
+Father Jack Play Area,0.31972415,"Parks, Playgrounds & Athletic Fields",02119,345 Walnut Avenue
+Flaherty Playground,1.31089218,"Parks, Playgrounds & Athletic Fields",02130,40 Cornwall Street
+Marcella Playground,5.09023284,"Parks, Playgrounds & Athletic Fields",02119,260 Highland Street
+Highland Park,3.63283913,"Parks, Playgrounds & Athletic Fields",02119,58 Beech Glen Street
+Cedar Square,0.61566382,"Parks, Playgrounds & Athletic Fields",02119,15 Cedar Street
+Elm Hill Park,0.11791867,"Malls, Squares & Plazas",02121,21P Elm Hill Park
+Quincy Street Play Area,0.54606112,"Parks, Playgrounds & Athletic Fields",02121,65 Quincy Street
+Howes Playground,1.89271114,"Parks, Playgrounds & Athletic Fields",02119,68 Moreland Street
+Little Scobie Playground,0.79442312,"Parks, Playgrounds & Athletic Fields",02119,36 Copeland Street
+Erie/Ellington Playground,0.37053063,"Parks, Playgrounds & Athletic Fields",02121,125 Erie Street
+Puddingstone Park,0.54822668,"Parks, Playgrounds & Athletic Fields",02121,330 Seaver Street
+Bynoe Park,2.67513375,"Parks, Playgrounds & Athletic Fields",02119,50 Orchard Park
+Buena Vista,1.47775025,Urban Wilds,02119, 
+Madison Park H.S. Athletic Fields,9.60646747,"Parks, Playgrounds & Athletic Fields",02120,55 Malcolm X Boulevard
+Dennis Street Park,0.68561997,"Parks, Playgrounds & Athletic Fields",02119,138 Moreland Street
+Holborn Street Playlot,0.14143004,"Parks, Playgrounds & Athletic Fields",02121,6 Holborn Street
+Medal of Honor Park,6.18321088,"Malls, Squares & Plazas",02127,775 East First Street
+Christopher Lee Playground,5.43840854,"Parks, Playgrounds & Athletic Fields",02127,775 East First Street
+Hawes Burying Ground,0.24322679,Cemeteries & Burying Grounds,02127,301 Emerson Street
+Union Burying Ground,0.12032393,Cemeteries & Burying Grounds,02127,650 East Fifth Street
+Dorchester Heights NHS,4.40435229,"Malls, Squares & Plazas",02127, 
+Flaherty Park,0.25204014,"Parks, Playgrounds & Athletic Fields",02127,130 B Street
+Buckley Playground,0.64952408,"Parks, Playgrounds & Athletic Fields",02127,210 West Third Street
+Ronan Park,11.2413665,"Parks, Playgrounds & Athletic Fields",02122,92 Mt. Ida Road
+Mt. Bowdoin Green,0.53822545,"Malls, Squares & Plazas",02121,18 Bowdoin Avenue
+Byrne Playground,1.18864855,"Parks, Playgrounds & Athletic Fields",02122,23 Everett Street
+Doherty/Gibson Playground,5.72677554,"Parks, Playgrounds & Athletic Fields",02124,1545 Dorchester Avenue
+Wellesley Park,0.7134472,"Parks, Playgrounds & Athletic Fields",02124,25 Wellesley Park
+McMorrow Playground,5.23227413,"Parks, Playgrounds & Athletic Fields",02122, 
+Hemenway Playground,4.39559122,"Parks, Playgrounds & Athletic Fields",02122,540 Adams Street
+Rev. Loesch Family Park,2.25173143,"Parks, Playgrounds & Athletic Fields",02124,20 Wainwright Street
+Codman Burying Ground,2.62546008,Cemeteries & Burying Grounds,02124, 
+Walsh Playground,6.94625108,"Parks, Playgrounds & Athletic Fields","02126, 02124",1005 Washington Street
+Dorchester South Burying Ground,1.93328338,Cemeteries & Burying Grounds,02124,2095 Dorchester Avenue
+Dorchester Park,27.2996867,"Parks, Playgrounds & Athletic Fields",02124,2180 Dorchester Avenue
+Gallivan/Hallet Circle,0.47803119,"Malls, Squares & Plazas",02122, 
+Toohig Playground,2.12442011,"Parks, Playgrounds & Athletic Fields",02122, 
+Martin/Hilltop Playground,1.31399581,"Parks, Playgrounds & Athletic Fields",02124,95 Myrtlebank Avenue
+10 Josephine Street Garden,0.06909026,Community Gardens,02122, 
+Mother's Rest at Four Corners,1.14620734,"Parks, Playgrounds & Athletic Fields",02124,410 Washington Street
+Ripley Playground,0.84612895,"Parks, Playgrounds & Athletic Fields",02121,25 Ripley Road
+Garvey Playground,5.26426894,"Parks, Playgrounds & Athletic Fields",02122,340 Neposet Avenue
+Ventura Playground,1.31001994,"Parks, Playgrounds & Athletic Fields",02124, 
+Geneva Cliffs,1.7984447,Urban Wilds,02121,275 Geneva Avenue
+Hayes Park,0.2751935,"Parks, Playgrounds & Athletic Fields",02116,158 Warren Avenue
+Peters Park II,0.50712416,"Parks, Playgrounds & Athletic Fields",02118,230 Shawmut Avenue
+Peters Park I,3.32684208,"Parks, Playgrounds & Athletic Fields",02118,230 Shawmut Avenue
+Rotch Playground,2.74608007,"Parks, Playgrounds & Athletic Fields",02118,30 Randolph Street
+Ringgold Park,0.44552493,"Parks, Playgrounds & Athletic Fields",02118,10 Ringgold Street
+Blackstone Square,2.44463878,"Malls, Squares & Plazas",02118,1535 Washington Street
+Franklin Square,2.48301375,"Malls, Squares & Plazas",02118,1530 Washington Street
+South End South Burying Ground,1.47010128,Cemeteries & Burying Grounds,02118,1620 Washington Street
+Worcester Square,0.34378499,"Malls, Squares & Plazas",02118,1P Worcester Square
+Carter Playground,4.91494835,"Parks, Playgrounds & Athletic Fields",02118,709 Columbus Avenue
+Titus Sparrow Park,1.79889248,"Parks, Playgrounds & Athletic Fields",02118,75 West Rutland Square
+Waltham Square,0.11841486,"Malls, Squares & Plazas",02118,2 Waltham Street
+Harriet Tubman Square,0.14178604,"Malls, Squares & Plazas",02116,450 Columbus Avenue
+Concord Square,0.14956232,"Malls, Squares & Plazas",02118,1P Concord Square
+Ramsay Park,5.49386846,"Parks, Playgrounds & Athletic Fields",02118,1917 Washington Street
+Commonwealth Avenue Outbound,5.5282581,"Parkways, Reservations & Beaches","02134, 02135, 02215", 
+Commonwealth Plaza,0.1567464,"Malls, Squares & Plazas",02215, 
+Chester Square,0.89020425,"Malls, Squares & Plazas",02118,544P Massachusetts Avenue
+Msgr. Reynolds Playground,0.32092654,"Parks, Playgrounds & Athletic Fields",02118,5 Msgr. Reynolds Way
+Rutland Square,0.15582059,"Malls, Squares & Plazas",02118,1P Rutland Square
+Hiscock Park,0.10575804,"Parks, Playgrounds & Athletic Fields",02118,168 West Newton Street
+Billings Field,10.77603957,"Parks, Playgrounds & Athletic Fields",02132,369 LaGrange Street
+Mount Benedict Cemetery,79.31400741,Cemeteries & Burying Grounds,"02132, 02467", 
+Mount Lebanon Cemetery,48.71769387,Cemeteries & Burying Grounds,02132, 
+Gethsemane Cemetery,20.84240401,Cemeteries & Burying Grounds,02132, 
+Hancock Woods,45.95344061,"Parkways, Reservations & Beaches","02132, 02467", 
+Sawmill Brook/Brook Farm,149.44332308,"Parkways, Reservations & Beaches",02132, 
+Congregation Mishkan Tefia Cemetery,9.5877396,Cemeteries & Burying Grounds,02132, 
+Draper Playground,5.86258777,"Parks, Playgrounds & Athletic Fields",02132,5265 Washington Street
+Westerly Burying Ground,0.90354196,Cemeteries & Burying Grounds,02132,2015 Centre Street
+Piemonte Park,0.08957481,"Malls, Squares & Plazas",02132,205 Lasell Street
+Duffie Square,0.05535156,"Malls, Squares & Plazas",02132,2 Stratford Street
+St Joseph's Cemetery,129.11471872,Cemeteries & Burying Grounds,"02459, 02132, 02467", 
+Allandale Woods I,48.14609073,Urban Wilds,"02132, 02467","75 VFW Parkway  
+1185 Centre Street (Right of Way)"
+Allandale Woods III,16.72572172,Urban Wilds,"02130, 02132, 02467",1215R Centre Street 200-232 Allandale Street
+Bellevue Hill Reservation,26.66902106,"Parkways, Reservations & Beaches",02132, 
+West Roxbury H.S. Athletic Fields,13.4250183,"Parks, Playgrounds & Athletic Fields",02132,1205 VFW Parkway
+Ramler Park,0.5060027,"Parks, Playgrounds & Athletic Fields",02215,130 Peterborough Street
+Fernald Rock,0.06345156,Urban Wilds,02125,400 Quincy Street
+Nashua Street Park,2.03369846,"Parkways, Reservations & Beaches",02114, 
+Chestnut Hill Reservoir,115.81199014,"Parkways, Reservations & Beaches","02135, 02467", 
+Penniman Road Play Area,0.92237908,"Parks, Playgrounds & Athletic Fields",02134,25 Penniman Road
+O'Day Playground,0.71771528,"Parks, Playgrounds & Athletic Fields",02118,"West Newton, San Juan, & Aquadilla Sts."
+Fan Pier Plaza,2.36341621,"Malls, Squares & Plazas",02210,12 Northern Avenue
+Children's Wharf Harborwalk,0.22805971,"Malls, Squares & Plazas",02210,308 Congress Street
+Martin's Park,1.12128945,"Parks, Playgrounds & Athletic Fields",02210,64 Sleeper Steet
+Braddock Park,0.09218721,"Malls, Squares & Plazas",02116,27P Braddock Park
+Veterans Park,0.19887514,"Parks, Playgrounds & Athletic Fields",02128,76-84 London Street
+East Boston Piers Park,6.79116545,"Parks, Playgrounds & Athletic Fields",02128, 
+Caldwell Street Play Area,0.12752687,"Parks, Playgrounds & Athletic Fields",02129,9 Caldwell Street
+L Street Beach,5.57148359,"Parkways, Reservations & Beaches",02127,1663 Columbia Road
+M Street Beach,4.40304053,"Parkways, Reservations & Beaches",02127, 
+Stonehill Park,0.36558742,"Parks, Playgrounds & Athletic Fields",02136,25 Stonehill Road
+Strandway/Castle Island,47.70344233,"Parkways, Reservations & Beaches",02127, 
+Marine Park,17.20141724,"Parkways, Reservations & Beaches",02127, 
+UMass Harborwalk,13.08638195,"Parkways, Reservations & Beaches",02125, 
+Malibu Beach,26.11969713,"Parkways, Reservations & Beaches",02125, 
+Victory Road Park,6.15518826,"Parkways, Reservations & Beaches",02122, 
+Parkman Memorial,6.71026098,"Parks, Playgrounds & Athletic Fields",02130,330 Perkins Street
+West Roxbury High School Marsh,21.48685572,Open Land,02132, 
+West Roxbury Parkway,31.76358405,"Parkways, Reservations & Beaches","02132, 02131, 02467", 
+Florida Street Reservation,0.06797622,"Malls, Squares & Plazas","02124, 02122","Center Median, btwn King & Lonsdale Streets"
+Tenean Beach,8.70228873,"Parkways, Reservations & Beaches",02122, 
+Cedar Grove Cemetery,54.18516548,Cemeteries & Burying Grounds,02124, 
+Martini Playground,5.78045491,"Parkways, Reservations & Beaches",02136, 
+Reservation Road Park,9.32832139,"Parks, Playgrounds & Athletic Fields",02136,151 Reservation Road
+Colella Playground,0.66053058,"Parks, Playgrounds & Athletic Fields",02136, 
+Neponset Valley Parkway,5.54015396,"Parkways, Reservations & Beaches",02136, 
+Dooley Playground,0.53566356,"Parks, Playgrounds & Athletic Fields",02136, 
+Stony Brook Reservation I,285.44155885,"Parkways, Reservations & Beaches","02136, 02131", 
+Patrick J. Kelly Park,0.25171851,"Parks, Playgrounds & Athletic Fields",02129,Prospect Street
+Clark/Cooper Community Garden,3.55447112,Community Gardens,02131,500 Walk Hill Street
+Kennedy Garden,0.15964578,Community Gardens,02126, 
+White Stadium,12.57440475,"Parks, Playgrounds & Athletic Fields",02121, 
+Havey Beach,15.198967,"Parkways, Reservations & Beaches",02132, 
+Millennium Park I,91.65706919,"Parks, Playgrounds & Athletic Fields",02132,300 Gardner Street
+South Street Mall & Courts,0.42841601,"Parks, Playgrounds & Athletic Fields",02130,52 South Street
+First Church Cemetery,0.62835826,Cemeteries & Burying Grounds,02130, 
+Golden Stairs Terrace Park I,0.17049598,"Parks, Playgrounds & Athletic Fields",02128,10 Brigham Street
+The Rockies,0.71451437,Urban Wilds,02128,"148 Marginal Street 
+144 Marginal Street (Community Garden section)"
+Childe Hassam Park,0.06066722,"Malls, Squares & Plazas",02116,324 Columbus Avenue
+Nellie Miranda Memorial Park,0.08739218,"Parks, Playgrounds & Athletic Fields",02125,39-41 Belden Street
+Grove Hall Plaza,0.08834848,"Malls, Squares & Plazas",02121,461-465 Blue Hill Avenue
+Chestnut Hill Reservoir Garden,0.11362569,Community Gardens,02135, 
+Ohrenberger Play Area,0.67412629,"Parks, Playgrounds & Athletic Fields",02132, 
+Wilson Square,0.05818013,"Malls, Squares & Plazas",02135,40 Dunboy Street
+Little Mystic Access Area,2.06590881,"Parks, Playgrounds & Athletic Fields",02129, 
+Moakley Park,58.77738076,"Parks, Playgrounds & Athletic Fields",02127,1005 Columbia Road
+Kennedy Library Harborwalk,3.35985728,"Malls, Squares & Plazas",02125, 
+Peabody Square,0.04662537,"Malls, Squares & Plazas",02124,2 Peabody Square
+Savin Hill Cove,1.77458013,"Parkways, Reservations & Beaches","02125, 02122", 
+Daniel E. O'Connor Park,0.13515974,"Malls, Squares & Plazas",02122, 
+Oakview Terrace,0.10008297,"Malls, Squares & Plazas",02130,36P Oakview Terrace
+Belle Isle Marsh Reservation,142.10358988,"Parkways, Reservations & Beaches",02128, 
+Allandale Field,2.62654718,"Parks, Playgrounds & Athletic Fields","02132, 02467", 
+Jamaicaway,4.75005995,"Parkways, Reservations & Beaches",02130, 
+Perkins Street,0.22702045,"Parkways, Reservations & Beaches",02130, 
+Chestnut Street,1.03910568,"Parkways, Reservations & Beaches",02130, 
+Faneuil Square,0.81678949,"Malls, Squares & Plazas",02109,1P Faneuil Hall Square
+Temple Street Park,0.06073199,"Malls, Squares & Plazas",02114,46 Temple Street
+American Legion Highway,6.77560767,"Parkways, Reservations & Beaches","02126, 02121, 02124, 02131", 
+Morton Street,0.76096783,"Parkways, Reservations & Beaches","02126, 02130, 02124, 02131", 
+St Michael's Cemetery,46.50379724,Cemeteries & Burying Grounds,"02130, 02131", 
+Patten's Cove,9.66123628,"Parkways, Reservations & Beaches",02125, 
+Leo M. Birmingham Parkway,6.98172672,"Parkways, Reservations & Beaches",02135, 
+Rivermoor II,1.03369101,Urban Wilds,02132,150 Rivermoor Street
+Rivermoor III,0.51911572,Urban Wilds,02132, 
+Parley Vale Preserve,0.72398241,"Parks, Playgrounds & Athletic Fields",02130,18-20 Parley Street
+Condor Street Overlook,0.45,Urban Wilds,02128,2 Condor Street
+Truman Parkway,2.71500041,"Parkways, Reservations & Beaches",02136, 
+West Austin Rock,0.29626499,Urban Wilds,02136,216 West Street
+Arborway Overpass Path,1.16385539,"Parkways, Reservations & Beaches",02130, 
+Franklin Park Zoo,63.82554862,"Parks, Playgrounds & Athletic Fields",02121, 
+Newland Street Park,0.1534102,"Parks, Playgrounds & Athletic Fields",02118,"97 West Concord;  Playlot Entrance, 90HF Newland Street"
+Zero Quinn Way,0.03202902,"Parks, Playgrounds & Athletic Fields",02132,0 Quinn Way
+Fenelon Street Playground,0.19241198,"Parks, Playgrounds & Athletic Fields",02121,20 Fenelon Street
+Stanley-Bellevue Park,0.35813587,"Parks, Playgrounds & Athletic Fields",02125,23 Bellevue Street
+Allandale Woods ROW,0.16386259,Urban Wilds,02132,1215R Centre Street 200-232 Allandale Street
+St Helena's Park,0.17481047,"Parks, Playgrounds & Athletic Fields",02118,115 Union Park Street
+Theresa Hynes Park,0.42343944,"Parks, Playgrounds & Athletic Fields",02135,99 Chestnut Hill Avenue
+Ernst Chery Jr. Playground,0.23395832,"Parks, Playgrounds & Athletic Fields",02126,74 Orlando Street
+Millennium Park II,8.33222815,Urban Wilds,02132,300 Gardner Street
+North Point Park,2.34133036,"Parks, Playgrounds & Athletic Fields",02114, 
+Bremen Street Park I,17.78916058,"Parks, Playgrounds & Athletic Fields",02128, 
+South Bank Park,2.39521477,"Parkways, Reservations & Beaches",02114,Beverley and Causeway Sts
+Lincoln Street Green,0.17757051,"Malls, Squares & Plazas",02111,17 South Street
+Chinatown Park,0.84197364,"Malls, Squares & Plazas",02111, 
+Armenian Heritage Park,0.2538375,"Malls, Squares & Plazas",02110, 
+Endicott Triangle,0.03843055,"Malls, Squares & Plazas",02113,"Btwn Endicott, Stillman, & Cross Sts"
+Dewey Square Parks,2.64044907,"Malls, Squares & Plazas","02110, 02210", 
+Federal Reserve Bank Harborwalk,0.08032794,"Malls, Squares & Plazas",02210, 
+Tufts Wharf Harborwalk,0.73915412,"Malls, Squares & Plazas",02210,510 Atlantic Avenue
+Russia Wharf Harborwalk,0.06115193,"Malls, Squares & Plazas",02210, 
+North End Park,2.82787538,"Malls, Squares & Plazas","02109, 02113", 
+Wharf District Park,4.71128786,"Malls, Squares & Plazas","02110, 02109", 
+McGann Park,0.88087107,"Parks, Playgrounds & Athletic Fields",02136,240 West Street
+Bay Village Garden,0.01815408,"Malls, Squares & Plazas",02116,32 Melrose Street
+Bussey Brook Meadow II,1.25776152,Open Land,02130,Opposite 376 Arborway Street
+Franklin Park II,16.44115769,"Parks, Playgrounds & Athletic Fields",02121, 
+Brian Honan Park,0.96367385,"Parks, Playgrounds & Athletic Fields",02135,Allston Street
+Allandale Woods II,10.60073766,Urban Wilds,"02130, 02132",1215R Centre Street 200-232 Allandale Street
+Mattahunt Woods II,3.40667513,Other Open Land,02126,50 Canaan Street (at Kennebec St)
+BPL Courtyard,0.18670139,"Malls, Squares & Plazas",02116,230 Dartmouth Street
+Sharon's Park,0.31493329,"Malls, Squares & Plazas",02125,840 Columbia Road
+Mattahunt Woods I,8.85081077,Urban Wilds,02126,20 Cannan Street (at Colorado Street)
+Beethoven School Play Area,0.52464693,"Parks, Playgrounds & Athletic Fields",02132,5119 Washington Street
+Algonquin Square,0.03890156,"Malls, Squares & Plazas",02124,2 Algonquin Street
+Robert G. Lawson Park,0.12211615,"Malls, Squares & Plazas",02119,1 Atherton Street
+Hunt Playground II,0.18639601,"Parks, Playgrounds & Athletic Fields",02126, 
+Golden Stairs Terrace Park II,0.07587316,"Malls, Squares & Plazas",02128, 
+Foley Square,0.14070438,"Malls, Squares & Plazas",02136,635 Metropolitan Avenue
+Jones Square,0.04306554,"Malls, Squares & Plazas",02136,80 Milton Avenue
+Schraffts Centre Harborwalk,1.00812584,"Malls, Squares & Plazas",02129,529-543 Main Street
+Roslindale Wetlands Urban Wild,9.58705106,Urban Wilds,02131,40 Selwyn Street
+Webster Square,0.05439216,"Malls, Squares & Plazas",02136,18 Webster Street
+Wolf Square,0.02279554,"Malls, Squares & Plazas",02121,190 Harold Street
+Woodworth Square,0.03458118,"Malls, Squares & Plazas",02136,105 Beacon Street
+East Boston Memorial Park II,1.80074841,"Parks, Playgrounds & Athletic Fields",02128, 
+East Boston Memorial Park III,3.25828701,"Parks, Playgrounds & Athletic Fields",02128, 
+Bremen Street Park II,0.00973802,"Parks, Playgrounds & Athletic Fields",02128, 
+Bussey Brook Meadow I,24.6767483,Urban Wilds,02130,255 South Street
+Arborway II,1.15264166,"Parkways, Reservations & Beaches",02130, 
+Allandale Woods IV,6.29445592,Urban Wilds,"02130, 02132",1215R Centre Street 200-232 Allandale Street
+Allandale Woods V,2.78226138,Urban Wilds,02132,1215R Centre Street
+Pier Four Harborwalk,0.08833499,"Malls, Squares & Plazas",02210,130 Northern Avenue
+Back Bay Fens,70.10028354,"Parks, Playgrounds & Athletic Fields","02115, 02215",100 Park Drive (Clemente Field House) 125 The Fenway (Emerald Necklace Conservancy) 50 Park Drive (Duck House)  1 Evans Way (Evans Way) Forsyth Way (Roadway)   70 Park Drive (Rose Garden)   35 The Fenway (Mother's Rest) 20 Park Drive (Victory Garden) 89
+Riverway I,17.1859298,"Parks, Playgrounds & Athletic Fields",02215,440 Park Drive; 300 Park Drive (Sears Parcel)
+Riverway III,5.29710791,"Parks, Playgrounds & Athletic Fields","02115, 02215","W side of Riverway parkway, btwn Netherlands & on ramp  nr Brookline Ice & Coal"
+Riverway IV,1.92234381,"Parkways, Reservations & Beaches","02115, 02215","E side of Riverway parkway, Francis St to Huntington Ave (Rt 9)"
+Jamaica Pond Park,97.73817701,"Parks, Playgrounds & Athletic Fields",02130,"345 Jamaica Way
+507 Jamaica Way"
+Charlesgate II,1.48764482,"Parkways, Reservations & Beaches",02215,Charlesgate East nr Boylston St;  Charlesgate West btwn Beacon St and Back St
+Agassiz Road,0.60408234,"Parkways, Reservations & Beaches",02215,Agassiz Road
+Columbia Road Park,0.12376056,"Parks, Playgrounds & Athletic Fields",02125,48 Buttonwood Street
+Boylston Street I,0.61687744,"Parkways, Reservations & Beaches",02215,Vicinity of Park Drive and Back Bay Fens
+Boylston Street II,1.78015257,"Parkways, Reservations & Beaches","02115, 02215",Vicinity of Bowker Overpass and The Fenway
+The Fenway II,0.7685747,"Parkways, Reservations & Beaches","02115, 02215",The Fenway at Brookline Ave & The Fenway at Boylston Street (near Charlesgate)
+Park Drive I,5.09545412,"Parkways, Reservations & Beaches",02215,Park Drive from Brookline Ave to Boylston Street near Charlesgate
+Park Drive II,1.38266086,"Parkways, Reservations & Beaches",02215,Park Drive at Boylston Street & Brookline Ave Intersection
+Fire Alarm House Grounds,0.84452826,"Parks, Playgrounds & Athletic Fields",02215,59 The Fenway
+Riverway II,2.36332055,"Parkways, Reservations & Beaches",02215,"E side of Riverway parkway, Park Dr to Francis St"
+Riverway V,0.44906601,"Parkways, Reservations & Beaches",02215,"E side of Riverway parkway, Autumn St to Francis St"
+Commonwealth Avenue Mall I,10.87118254,"Malls, Squares & Plazas","02115, 02116, 02215",Commonwealth Ave btwn Arlington St & Charlesgate East
+Centre Street II,0.33933367,"Parkways, Reservations & Beaches",02131, 
+Centre Street I,2.24981233,"Parkways, Reservations & Beaches","02130, 02131",Centre St fr Murray Circle to Allandale St (NW side) and Bussey St (SE side)
+Centre Street IV,0.31576081,"Parkways, Reservations & Beaches","02130, 02132",NW side (outbound) of Centre St btwn Allandale St & VFW Parkway
+Reserved Channel Harborwalk,3.18537612,"Malls, Squares & Plazas","02210, 02127", 
+Tunnel Harborwalk,0.18410324,"Malls, Squares & Plazas",02210,FID Kennedy Avenue
+Aquarium Harborwalk II,0.05082117,"Malls, Squares & Plazas",02110,East side of India Row btwn Aquarium IMAX & Harbor Towers
+India Wharf Harborwalk,0.41591327,"Malls, Squares & Plazas",02110,65-85 East India Row
+Rowe's Wharf Harborwalk,1.25944293,"Malls, Squares & Plazas",02110,350 Atlantic Avenue
+400R Atlantic Avenue Harborwalk,0.04594522,"Malls, Squares & Plazas",02110,400R Atlantic Avenue
+408 Atlantic Avenue Harborwalk,0.03425732,"Malls, Squares & Plazas",02110,408 Atlantic Avenue
+Independence Wharf Harborwalk,0.17578463,"Malls, Squares & Plazas",02210,470 Atlantic Avneue
+Commercial Wharf Harborwalk,0.19451575,"Malls, Squares & Plazas",02110,86-87 Commercial Wharf East
+Nancy Kafka Reserve,0.71482504,"Parks, Playgrounds & Athletic Fields",02119,140 Highland Street
+Brighton Common,0.50666062,"Malls, Squares & Plazas",02135,30 Chestnut Hill Avenue
+Sweeney Playground,0.46237615,"Parks, Playgrounds & Athletic Fields",02127,180 West Fifth Street
+Ryan Play Area,0.63636129,"Parks, Playgrounds & Athletic Fields",02125,960 Dorchester Avenue
+Doris F. Tillman Playground,0.6620697,"Parks, Playgrounds & Athletic Fields",02119,45 Lambert Avenue
+Adams/King Playground,0.67749653,"Parks, Playgrounds & Athletic Fields",02122,470 Adams Street
+Meany Park,0.23297897,"Parks, Playgrounds & Athletic Fields",02125, 
+Lincoln Square,0.05462822,"Malls, Squares & Plazas",02116,2 Columbus Avenue
+Bunker Hill Burying Ground,1.10725989,Cemeteries & Burying Grounds,02129,201 Bunker Hill Street
+Clifford Playground,7.55334443,"Parks, Playgrounds & Athletic Fields",02119,160 Norfolk Avenue
+Elmhurst Street Park,0.2348565,"Parks, Playgrounds & Athletic Fields",02124,27-35 Elmhurst Street
+Dunbarton Woods,0.73523252,Urban Wilds,02132,Dunbarton Road
+Joe's American Harborwalk,0.04359801,"Malls, Squares & Plazas",02110,98-104 Atlantic Avenue
+Bradford Street Play Area,0.03665251,"Parks, Playgrounds & Athletic Fields",02118,18 Bradford Street
+Lincoln Square,0.21659302,"Malls, Squares & Plazas",02127,755 East Fourth Street
+Laviscount Park,1.1541777,"Parks, Playgrounds & Athletic Fields",02121,80 Humboldt Avenue
+Statler Park,0.2326726,"Malls, Squares & Plazas",02116,243 Stuart Street
+Hynes Playground,6.41668495,"Parks, Playgrounds & Athletic Fields",02132,502 VFW Parkway
+Rink Grounds,0.7343436,"Parks, Playgrounds & Athletic Fields",02129, 
+Roxbury Heritage State Park,1.78135758,"Parks, Playgrounds & Athletic Fields",02119, 
+Eliot Burying Ground,0.7936643,Cemeteries & Burying Grounds,02119,16 Eustis Street
+Blake Estates Urban Wild I,1.20888687,Urban Wilds,02136,Bank of Mother Brook btwn Hyde Park Ave & Fulton St
+Railroad Avenue,1.09888797,Urban Wilds,02136, 
+Fairview Cemetery,59.06,Cemeteries & Burying Grounds,02136,28 Fairview Avenue
+Joyce Playground,1.3648205,"Parks, Playgrounds & Athletic Fields",02135,80 Union Street
+Cassidy Playground,9.60773626,"Parks, Playgrounds & Athletic Fields",02467,379 Chestnut Hill Avenue
+Shubow Park I,0.57167722,"Parks, Playgrounds & Athletic Fields",02135,1825 Commonwealth Avenue
+Shubow Park II,0.15557707,"Parks, Playgrounds & Athletic Fields",02135,1825 Commonwealth Avenue
+St Augustine Burying Ground,0.91315492,Cemeteries & Burying Grounds,02127,"Dorchester Ave, Tudor St, F St,"
+Central Square,0.9050867,"Malls, Squares & Plazas",02128,1P William C Kelly Square
+Rossmore/Stedman Park,0.07356577,"Parks, Playgrounds & Athletic Fields",02130,40 Rossmore Street
+Brewer-Burroughs Tot Lot,0.19124932,"Parks, Playgrounds & Athletic Fields",02130,2P Brewer Street
+The Fenway I,6.75107846,"Parkways, Reservations & Beaches","02115, 02215",The Fenway from Emanuel College to Boston Conservatory of Music (Brookline Ave to Boylston St)
+Public Ground,0.06371687,"Malls, Squares & Plazas",02135,Cambridge & Henshaw Streets
+Tebroc Street Playlot,0.07342236,"Parks, Playgrounds & Athletic Fields",02122,151 Bowdoin Street
+Aquarium Harborwalk I,0.57319833,"Malls, Squares & Plazas",02110,248 Atlantic Avenue
+Hanlon Square,0.0384283,"Malls, Squares & Plazas",02115,725 Huntington Avenue
+Essex Square,0.02510106,"Malls, Squares & Plazas",02129,23-25 Essex Street
+Mt. Pleasant Play Area,0.39857232,"Parks, Playgrounds & Athletic Fields",02119,30 Mt. Pleasant Avenue
+Joslin Park,0.30792907,"Malls, Squares & Plazas",02215,10 Joslin Place
+Portsmouth Street Playground,4.26129194,"Parks, Playgrounds & Athletic Fields",02135,35 Portsmouth Street
+Heath Square,0.09790836,"Malls, Squares & Plazas",02130,65 Heath Street
+Emmel Square,0.01828282,"Malls, Squares & Plazas",02131,23 South Fairview Street
+Tremlett Square,0.1581,"Malls, Squares & Plazas",02124,39P Tremlett Street
+Bonito Square,0.0621615,"Malls, Squares & Plazas",02128, 
+Richardson Park,1.11426156,"Malls, Squares & Plazas",02125, 
+Roberts Playground,10.22630854,"Parks, Playgrounds & Athletic Fields",02124,56 Dunbar Avenue
+Willow Pond Meadow,6.25209794,"Parks, Playgrounds & Athletic Fields",02130, 
+Olmsted Park,42.82523011,"Parks, Playgrounds & Athletic Fields",02130,217 Jamaicaway
+Frieda Garcia Park,0.26781767,"Parks, Playgrounds & Athletic Fields",02116,95-111 Clarendon Street
+Raymond V. Mellone Park II,0.475156,"Parks, Playgrounds & Athletic Fields",02134, 
+Rena Park,2.2240593,"Parks, Playgrounds & Athletic Fields",02134,288 - 290 N Harvard Street
+Stony Brook Reservation III,70.24374286,"Parkways, Reservations & Beaches","02136, 02131", 
+George Wright Golf Course,155.98362996,"Parks, Playgrounds & Athletic Fields","02136, 02131","420 West Street 
+260 West Street"
+DeForest Urban Wild,1.0238238,Urban Wilds,02136, 
+ICA Pier Walk,0.29264781,"Malls, Squares & Plazas",02210,100 Northern Avenue
+Fan Pier Harborwalk,1.66183038,"Malls, Squares & Plazas",02210, 
+McLaughlin Playground,11.66941737,"Parks, Playgrounds & Athletic Fields",02120,239 Parker Hill Avenue
+Parker Hilltop,1.69475448,Urban Wilds,02120,225 Parker Hill Avenue
+LoPresti Park,3.23416881,"Parks, Playgrounds & Athletic Fields",02128,33 Sumner Street
+Raymond V. Mellone Park I,1.08096812,"Parks, Playgrounds & Athletic Fields",02134,288-308 North Harvard Street
+General Edward O. Gourdin African-American Veterans Memorial Park,0.50447733,"Malls, Squares & Plazas",02119, 
+Elliot Norton Park,0.94506693,"Parks, Playgrounds & Athletic Fields",02116,295 Tremont Street
+Bay Village Neighborhood Park,0.09401441,"Malls, Squares & Plazas",02116, 
+Beauford Play Area,0.23574206,"Parks, Playgrounds & Athletic Fields",02125,127 Howard Avenue
+Children's Park,0.34855408,"Parks, Playgrounds & Athletic Fields",02121,81-85 Intervale Street
+Winthrop Playground,1.56102517,"Parks, Playgrounds & Athletic Fields",02125,21 Danube Street
+Denton Square,0.07436155,"Malls, Squares & Plazas",02125,1 Wayland Street
+Ceylon Park,4.64357435,"Parks, Playgrounds & Athletic Fields",02121,105 Ceylon Street
+Hannon Playground,1.96738119,"Parks, Playgrounds & Athletic Fields",02125,621 Dudley Street
+Portal Park,0.36661681,"Malls, Squares & Plazas",02114,Causeway St above O'Neill Tunnel Entrance Portal (Zakim Bridge Approach)
+Healy Playground,9.60460873,"Parks, Playgrounds & Athletic Fields",02131,160 Florence Street
+Menino Park,1.23670225,"Parks, Playgrounds & Athletic Fields",02129,First Avenue & Sixteenth Street
+Spectacle Island I,86.00358069,"Parks, Playgrounds & Athletic Fields", ,5 Spectacle Island
+Spectacle Island II,25.52192665,"Parks, Playgrounds & Athletic Fields", , 
+Cook Street Play Area,0.10135288,"Parks, Playgrounds & Athletic Fields",02129,15 Hill Street
+Spaulding Rehabilitation Plaza,0.29724262,"Malls, Squares & Plazas",02129,300 First Avenue
+Navy Yard Grounds,3.58076532,"Parks, Playgrounds & Athletic Fields",02129, 
+Christopher Columbus Park,4.86711363,"Parks, Playgrounds & Athletic Fields",02110,110 Atlantic Avenue
+Long Wharf,3.90122458,"Malls, Squares & Plazas",02110,206-214 Atlantic Avenue (Harbor End of Wharf)
+Peter Looney Park,0.66841561,"Parks, Playgrounds & Athletic Fields",02129,34 Union Street
+Charlestown Naval Shipyard Park,9.58138441,"Parks, Playgrounds & Athletic Fields",02129, 
+Constitution Beach,25.31309776,"Parkways, Reservations & Beaches",02128, 
+Massport Harborwalk,2.47144426,"Malls, Squares & Plazas",02128, 
+Nira Rock,1.44765781,Urban Wilds,02130,22 Nira Avenue
+Jefferson Playground,3.40077045,"Parks, Playgrounds & Athletic Fields",02130,10 Grotto Glen Road
+Arborway I,16.77585562,"Parkways, Reservations & Beaches",02130, 
+Amory Street Park,0.12224663,"Parks, Playgrounds & Athletic Fields",02119, 
+Puopolo Playground,2.65425058,"Parks, Playgrounds & Athletic Fields",02109,517 Commercial Street
+Stony Brook Reservation II,141.95723737,"Parkways, Reservations & Beaches","02132, 02136", 
+A Street Park,1.3607258,"Parks, Playgrounds & Athletic Fields",02210,135-141 A Street
+Fort Point Channel Harborwalk,1.41395605,"Malls, Squares & Plazas","02210, 02127", 
+Franklin Park,392.18501638,"Parks, Playgrounds & Athletic Fields","02130, 02121","25 Pierpont Road 
+155 Seaver Street (Tiffany Moore) 
+450 Walnut Avenue (El Parquesito de la Hermandad) 
+1 Franklin Park Drive (Zoo) 
+1 Jewish War Mem Veteran's Dr (Club House) 
+100 Jewish War Memorial Veteran's Dr (Mtce Yard) 
+35 American Legion Hwy (Mot"
+Charlesgate I,6.59092994,"Parkways, Reservations & Beaches",02215,"Btwn Storrow Dr, Mass Pike, Charlesgate East & Charlesgate West"
+Adams Park,0.7051637,"Parks, Playgrounds & Athletic Fields",02131,4225 Washington Street
+Arnold Arboretum,224.27203832,"Parks, Playgrounds & Athletic Fields","02130, 02131",125 The Arborway; 25 Bussey Street
+Hunt Playground,18.67,"Parks, Playgrounds & Athletic Fields",02126,40 Almont Street
+Pope John Paul II Park I,70.00617732,"Parkways, Reservations & Beaches","02124, 02122", 
+Port Norfolk Park,12.72565247,"Parkways, Reservations & Beaches",02122, 
+Pope John Paul II Park II,0.33162551,"Parkways, Reservations & Beaches",02122, 
+West Link Park,3.58777585,"Parkways, Reservations & Beaches",02125, 
+Carson Beach,24.64639659,"Parkways, Reservations & Beaches","02125, 02127", 
+Commercial Point,2.38153477,"Parkways, Reservations & Beaches",02122, 
+Charles River Reservation,171.8964419,"Parkways, Reservations & Beaches","02134, 02115, 02163, 02135, 02114, 02108, 02116, 0", 
+Forbes Street Playground,0.09115367,"Parks, Playgrounds & Athletic Fields",02130,60 Forbes Street
+Union Park Street Playground,0.40978067,"Parks, Playgrounds & Athletic Fields",02118,125 Union Park Street
+Porzio Park,2.50423194,"Parks, Playgrounds & Athletic Fields",02128,14 Jeffries Street
+Ross Playground,13.12495412,"Parks, Playgrounds & Athletic Fields",02136,145 Westminster Street
+Mt. Hope Cemetery,125.04694818,Cemeteries & Burying Grounds,02131,355 Walk Hill Street
+Calvary Cemetery,47.23674938,Cemeteries & Burying Grounds,02131, 
+New Calvary Cemetery,59.44638436,Cemeteries & Burying Grounds,02126, 
+Savin Hill Park,8.29027982,"Parks, Playgrounds & Athletic Fields",02125,25 Caspian Way
+Southwest Corridor Park,48.47698106,"Parkways, Reservations & Beaches","02118, 02130, 02119, 02115, 02116, 02120", 
+Orton Field,1.59444785,"Parks, Playgrounds & Athletic Fields",02127,200 D Street
+Paul Gore Street Park,0.7340119,"Parks, Playgrounds & Athletic Fields",02130,60 Paul Gore Street
+Allen Park,1.29344677,"Parks, Playgrounds & Athletic Fields",02122,1-19 Church Street
+Boston Nature Center_Visitor Ctr,2.33062987,"Parks, Playgrounds & Athletic Fields","02126, 02131",500 Walk Hill Street
+Boston Nature Center,58.53155346,Urban Wilds,"02126, 02131",500 Walk Hill Street
+Cunningham Park,0.17970203,"Malls, Squares & Plazas",02135,725 Cambridge Street
+McLean Playground,0.4270713,"Parks, Playgrounds & Athletic Fields",02128,550 Bennington Street
+Navy Fuel Pier Airport Edge Buffer,0.84353898,"Parks, Playgrounds & Athletic Fields",02128, 
+Fidelis Way Park,4.90352493,"Parks, Playgrounds & Athletic Fields",02135,19P Jette Court
+Harambee Park,44.74639215,"Parks, Playgrounds & Athletic Fields",02124,930 Blue Hill Avenue
+St Mary's Cemetery,10.50258252,Cemeteries & Burying Grounds,02124, 
+VFW Parkway I,12.44234167,"Parkways, Reservations & Beaches","02132, 02467", 
+VFW Parkway II,0.64656848,"Parks, Playgrounds & Athletic Fields",02132, 
+Carroll Pond Playground,0.48428662,"Parks, Playgrounds & Athletic Fields",02132,15 Carrolton Road
+O'Donnell Square,0.06098479,"Malls, Squares & Plazas",02122, 
+Grove Street Cemetery,25.38168175,Cemeteries & Burying Grounds,02132, 
+King's Chapel Burying Ground,0.43176542,Cemeteries & Burying Grounds,02108,40 Tremont Street
+Blue Hill Club Recreation Center,3.04202852,"Parks, Playgrounds & Athletic Fields",02124,15 Talbot Street
+Columbia Road/Day Boulevard,16.85070443,"Parkways, Reservations & Beaches","02125, 02127", 
+Columbia Park,0.33933352,"Parks, Playgrounds & Athletic Fields",02127,"Farragut Road, Columbia Road, Sixth Street, Lennon Street"
+Bellevue Street Green,0.11772279,"Malls, Squares & Plazas",02132,Bellevue St btwn Robin St and Bellevue Hill Rd
+Walnut Park,0.06010444,"Malls, Squares & Plazas",02119, 
+Mirabella Pool,1.36211167,"Parks, Playgrounds & Athletic Fields",02109,475 Commercial Street
+Theresa Hynes Park Access Easement,0.02090878,"Parks, Playgrounds & Athletic Fields",02135,99 Chestnut Hill Avenue
+Union Park,0.36843561,"Parks, Playgrounds & Athletic Fields",02118,24P Union Park
+Blake Estates Urban Wild II,0.35358998,Urban Wilds,02136,1344 Hyde Park Avenue
+Stony Brook Reservation CR,2.55650047,"Parkways, Reservations & Beaches",02136,114 Gordon Avenue
+Rink Grounds,2.52599648,"Parks, Playgrounds & Athletic Fields",02122,995 Morrissey Blvd
+Mount Hope Park,0.1092459,"Parks, Playgrounds & Athletic Fields",02131,464 Mt Hope Street
+Oak Square,0.23433381,"Malls, Squares & Plazas",02135,430 Faneuil Street
+Henry Square,0.05217643,"Malls, Squares & Plazas",02124,Btwn Adams St and Gallivan Blvd
+Melnea A. Cass Recreational Complex,2.58263465,"Parks, Playgrounds & Athletic Fields",02119,120 Martin Luther King Jr. Blvd
+Puerto Rican Veterans Memorial Park,0.13484183,"Malls, Squares & Plazas",02118,W Dedham St & Washington St
+East Boston Greenway Extension,1.24227069,"Parks, Playgrounds & Athletic Fields",02128, 
+Wood Island Bay Edge Park,0.59879283,"Parks, Playgrounds & Athletic Fields",02128, 
+Dearborn Street Square,0.0293237,"Malls, Squares & Plazas",02119, 
+Babson Cookson Tract,2.41135373,Urban Wilds,02126, 
+Paula Titus Park,0.18237447,"Parks, Playgrounds & Athletic Fields",02119,66 Fort Ave
+Watson Park,0.10689584,"Parks, Playgrounds & Athletic Fields",02118,15 Taylor Street
+Nonquit Street Green,0.3404661,"Parks, Playgrounds & Athletic Fields",02125,695 701A Dudley Street and Nonquit Street
+Mahoney Park,0.38110158,"Parks, Playgrounds & Athletic Fields",02127,2498 Beacon Street
+Boundary I,6.92577563,Urban Wilds,02136, 
+Sprague Pond,1.19620239,Urban Wilds,02136,0-4 Lakeside Avenue
+Codman Square,0.35071001,"Malls, Squares & Plazas",02124,360 Talbot Avenue
+Murphy Playground,2.44919749,"Parks, Playgrounds & Athletic Fields",02130,20 Child Street
+Union Square Plaza I,0.31130858,"Malls, Squares & Plazas",02134, 
+Union Square Plaza II,0.07861874,"Malls, Squares & Plazas",02134, 
+Neponset River Reservation I,121.5592824,"Parkways, Reservations & Beaches","02126, 02124, 02136", 
+Neponset River Reservation II,61.94219111,"Parkways, Reservations & Beaches",02136, 
+Egleston Square Peace Garden,0.11690281,Community Gardens,02130,3131 Washington Street
+Sherrin Woods II,1.10639002,Urban Wilds,02136,0 Dale Street

@@ -1,0 +1,56 @@
+version: 2
+
+sources:
+  - name: raw
+    database: SAARTHI  
+    schema: raw        
+    tables:
+      - name: raw_yelp_restaurants
+        columns:
+          - name: ID
+            tests:
+              - dbt_expectations.expect_column_values_to_not_be_null
+              - dbt_expectations.expect_column_values_to_be_unique
+          - name: NAME
+            tests:
+              - dbt_expectations.expect_column_values_to_not_be_null
+          - name: IMAGE_URL
+            tests:
+              - dbt_expectations.expect_column_to_exist
+          - name: IS_CLOSED
+            tests:
+              - dbt_expectations.expect_column_to_exist
+          - name: URL
+            tests:
+              - dbt_expectations.expect_column_to_exist
+          - name: REVIEW_COUNT
+            tests:
+              - dbt_expectations.expect_column_to_exist
+          - name: CATEGORIES
+            tests:
+              - dbt_expectations.expect_column_to_exist
+          - name: RATING
+            tests:
+              - dbt_expectations.expect_column_values_to_be_between:
+                  min_value: 0
+                  max_value: 5
+          - name: COORDINATES
+            tests:
+              - dbt_expectations.expect_column_values_to_not_be_null
+          - name: PRICE
+            tests:
+              - dbt_expectations.expect_column_to_exist
+          - name: LOCATION
+            tests:
+              - dbt_expectations.expect_column_to_exist
+          - name: PHONE
+            tests:
+              - dbt_expectations.expect_column_to_exist
+          - name: DISPLAY_PHONE
+            tests:
+              - dbt_expectations.expect_column_to_exist
+      - name: raw_boston_groups
+      - name: raw_boston_openspace
+      - name: raw_zillow_apartments
+      - name: raw_boston_utilities
+      - name: raw_new_zillow_apartments
