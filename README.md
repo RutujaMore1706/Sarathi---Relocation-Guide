@@ -1,2 +1,2 @@
-# Sarathi---Relocation-Guide
+# Sarathi-Relocation-Guide
 Apartment Recommendation System
